@@ -6,3 +6,6 @@ Voici une calculatrice entièrement créée sur le logiciel <a href="http://www.
 ## Capable de :
 - [x] Additionner des entiers naturels compris entre 0 et 99999.
 - [x] Soustraire des entiers naturels compris entre 0 et 99999
+
+## Guide :
+Pour utiliser la calculatrice, télécharger d'abord <a href="http://www.cburch.com/logisim/" target="_blank">Logisim</a>, puis ouvrez le fichier "calculatrice.circ" à l'aide de Logisim.
