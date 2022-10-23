@@ -8,4 +8,6 @@ Voici une calculatrice entièrement créée sur le logiciel <a href="http://www.
 - [x] Soustraire des entiers naturels compris entre 0 et 99999
 
 ## Guide :
-Pour utiliser la calculatrice, télécharger d'abord <a href="http://www.cburch.com/logisim/" target="_blank">Logisim</a>, puis ouvrez le fichier "calculatrice.circ" à l'aide de Logisim.
+* Pour utiliser la calculatrice, télécharger d'abord <a href="http://www.cburch.com/logisim/" target="_blank">Logisim</a>, puis ouvrez le fichier "calculatrice.circ" à l'aide de Logisim.
+* Sur Logisim, une fois le fichier "calculatrice.circ" ouvert, sélectionnez le mode souhaité (addition ou soustraction), les deux derniers de la liste déroulante (affichage 4 chiffres +/- 4 chiffres).
+<img width="400" src="https://github.com/MamadouTango/calculette/blob/main/.github/Capture.PNG" alt="Logo" align="center">
